@@ -19,3 +19,4 @@ class Carro:
 mi_carro = Carro('rojo', 'Toyota', 'Corolla')
 mi_carro.acelerar(20)
 mi_carro.frenar(10)
+print(f'La velocidad final de mi carro es: {mi_carro.velocidad} km/h')
