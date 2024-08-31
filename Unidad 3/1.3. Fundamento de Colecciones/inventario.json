@@ -1,0 +1,26 @@
+{
+    "001": {
+        "id_producto": "001",
+        "nombre": "Agua",
+        "cantidad": 100,
+        "precio": 0.5
+    },
+    "002": {
+        "id_producto": "002",
+        "nombre": "Arroz",
+        "cantidad": 80,
+        "precio": 0.7
+    },
+    "003": {
+        "id_producto": "003",
+        "nombre": "Chicles",
+        "cantidad": 40,
+        "precio": 0.05
+    },
+    "004": {
+        "id_producto": "004",
+        "nombre": "Azucar",
+        "cantidad": 20,
+        "precio": 0.45
+    }
+}
